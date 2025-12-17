@@ -28,8 +28,3 @@ x86/
 project.lock.json
 project.fragment.lock.json
 artifacts/
-
-# Output files
-*.csv
-WindGeneration.csv
-wind_generation_data.csv
